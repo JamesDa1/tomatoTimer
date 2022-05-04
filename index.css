@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+}
+
+header {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+#countdown {
+  font-size: 8rem;
+  text-align: center;
+  margin-top: 0.5rem;
+  font-weight: 800;
+}
+.btn {
+  padding: 1rem 2rem;
+  background-color: #eb5353;
+  border-radius: 6px;
+}
+
+.btn-work {
+  background-color: red;
+}
+
+.short-break {
+  background-color: yellow;
+}
+
+.long-break {
+  background-color: green;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.gallery {
+  display: flex;
+}
+
+img {
+  width: 25%;
+}
+
+.options {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+}
